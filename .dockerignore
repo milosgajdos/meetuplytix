@@ -1,0 +1,12 @@
+# Development Artifacts
+.git
+.ipynb_checkpoints
+.DS_Store
+.gitignore
+binder
+
+# Text Artifacts
+Dockerfile
+README.md
+data
+notebooks

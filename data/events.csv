@@ -1,0 +1,18 @@
+announced,date,time,venue,name,rsvp_limit,rsvp_yes,waitlist
+1511268718000,2017-11-30,19:00,Skills Matter CodeNode,Kuber-X-mas gathering,240,229,0
+1507291460000,2017-10-19,19:00,Sainsburys Technology Hub,Kubernetes IPO (Initial Pod Offering),300,300,0
+1496869108000,2017-06-26,19:00,Skills Matter CodeNode,Kubernetes Summer,300,300,0
+1493895805000,2017-05-10,19:00,Skills Matter CodeNode,Kubernetes Spring,300,293,0
+1485177571000,2017-02-08,19:00,Skills Matter CodeNode,First 2017 Kubernetes London Meetup,250,250,0
+1476055895000,2016-10-19,18:30,Skills Matter CodeNode,Autumn Kubernetes gathering,250,182,0
+1472825554000,2016-09-08,18:00,Central Foundation Boys School,Container Camp 0-Day with Docker London,2,2,0
+1469449244000,2016-08-10,19:00,uSwitch,Celebrate Kubernetes birthday!,100,100,0
+1463105760000,2016-05-23,19:00,Skills Matter CodeNode,Kubernetes Vol. 7,300,169,0
+1457705580000,2016-04-12,19:00,Channel 4 Television Corporation,Deis and Kubernetes with Gabriel Monroy,100,100,0
+1452083604000,2016-03-10,09:00,TBD,KubeCon EU in London March 10-11 2016,0,121,0
+1452256076000,2016-01-20,19:30,uSwitch,First London Kubernetes gathering in 2016,80,80,0
+1446736930000,2015-11-06,16:00,Skills Matter CodeNode,ContainerSched conference raffle,0,59,0
+1444736862000,2015-10-19,19:30,uSwitch,Kubernetes CI/CD and stateful containers,90,90,0
+1436445922000,2015-08-06,18:30,Skills Matter CodeNode,Kubernetes launch London party!,300,206,0
+1427804909000,2015-04-16,19:00,Open Credo,Kubernetes Vol. 2,80,80,0
+1421427127000,2015-02-03,19:00,Ministry of Justice,Kubernetes Intro,80,78,0
